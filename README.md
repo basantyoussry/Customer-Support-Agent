@@ -33,5 +33,6 @@ Once approved, go to Hugging Face Settings > Access Tokens. Click "New Token", g
 
 In Repository Permissions, select LLaMA-2-7b-chat-hf to ensure access.
 
-Link to the code Notebook: https://www.kaggle.com/code/basantyoussry/customer-support-agnet/edit/run/223228367
+<a href="https://www.kaggle.com/code/basantyoussry/customer-support-agnet?scriptVersionId=223225101" target="_blank"><img align="left" alt="Kaggle" title="Open in Kaggle" src="https://kaggle.com/static/images/open-in-kaggle.svg"></a>
+
 
