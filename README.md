@@ -32,3 +32,6 @@ Click "Request Access" and submit the form. Approval typically takes 5-10 minute
 Once approved, go to Hugging Face Settings > Access Tokens. Click "New Token", give it a name, and set permissions to "Write". 4️⃣ Grant Repository Permissions
 
 In Repository Permissions, select LLaMA-2-7b-chat-hf to ensure access.
+
+Link to the code Notebook: https://www.kaggle.com/code/basantyoussry/customer-support-agnet/edit/run/223228367
+
