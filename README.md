@@ -30,9 +30,13 @@ Go to LLaMA 2 on Hugging Face.
 
 2️⃣ Request Access
 
-Click "Request Access" and submit the form. Approval typically takes 5-10 minutes. 3️⃣ Generate an Access Token
+Click "Request Access" and submit the form. Approval typically takes 5-10 minutes.
 
-Once approved, go to Hugging Face Settings > Access Tokens. Click "New Token", give it a name, and set permissions to "Write". 4️⃣ Grant Repository Permissions
+3️⃣ Generate an Access Token
+
+Once approved, go to Hugging Face Settings > Access Tokens. Click "New Token", give it a name, and set permissions to "Write". 
+
+4️⃣ Grant Repository Permissions
 
 In Repository Permissions, select LLaMA-2-7b-chat-hf to ensure access.
 
