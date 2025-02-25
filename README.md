@@ -13,6 +13,7 @@ Order Issue
 Payment Problem
 General Inquiry
 Used Logistic Regression to classify the category of the query.
+
 2️⃣ Response Generation:
 
 Used LLaMA 2 to generate a response based on the classified category.
@@ -25,7 +26,9 @@ If you're running this on a different PC and need to access LLaMA 2, follow thes
 
 1️⃣ Visit the Model Page
 
-Go to LLaMA 2 on Hugging Face. 2️⃣ Request Access
+Go to LLaMA 2 on Hugging Face.
+
+2️⃣ Request Access
 
 Click "Request Access" and submit the form. Approval typically takes 5-10 minutes. 3️⃣ Generate an Access Token
 
